@@ -32,7 +32,7 @@ h1 {
   display: flex;
   width: 57.5em;
   height: 32.25em;
-  margin: 5em 5em 0 5em;
+  margin: 5em auto;
   flex-direction: row;
 }
 
