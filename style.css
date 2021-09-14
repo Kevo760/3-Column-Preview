@@ -92,7 +92,7 @@ a {
   padding: .7em 1.5em;
   background-color: hsl(0, 0%, 95%);
   border-radius: 2em;
-  transform: translate(50% , 100%);
+  transform: translate(50% , 80%);
   border-color: hsl(0, 0%, 95%);
   border-style: solid;
 }
