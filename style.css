@@ -56,6 +56,7 @@ h1 {
   height: 100%;
   border-radius: 0 .5em .5em 0;
   width: auto;
+  margin-bottom: 5em;
 }
 
 
@@ -76,7 +77,10 @@ span {
   line-height: 1.7;
 }
 
-
+h1 {
+  display: block;
+  padding-left: 1.3em;
+}
 
 
 
@@ -100,11 +104,13 @@ a {
 
 .sedans a {
   color: hsl(31, 77%, 52%);
+
 }
 
 .sedans a:hover {
   color: hsl(0, 0%, 95%);
   background-color: hsl(31, 77%, 52%);
+  transition: 0.4s;
 }
 
 
@@ -115,6 +121,7 @@ a {
 .suvs a:hover {
   color: hsl(0, 0%, 95%);
   background-color:hsl(184, 100%, 22%);
+  transition: 0.4s;
 }
 
 
@@ -125,6 +132,7 @@ a {
 .luxury a:hover {
   color: hsl(0, 0%, 95%);
   background-color: hsl(179, 100%, 13%);
+    transition: 0.4s;
 }
 
 /* =========================== Button =============================== */
